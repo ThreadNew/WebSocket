@@ -1,0 +1,10 @@
+com\chatsocket\bean\Message.class
+com\chatsocket\websocketConfig\WebSocketConfig$1$1.class
+com\chatsocket\bean\User.class
+com\chatsocket\App.class
+com\chatsocket\data\UInfoSingleton.class
+com\chatsocket\websocketConfig\WebSocketConfig.class
+com\chatsocket\data\UserInfo.class
+com\chatsocket\websocketConfig\WebSocketConfig$1.class
+com\chatsocket\controller\LoginController.class
+com\chatsocket\controller\MsgController.class
